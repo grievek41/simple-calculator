@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Simple Calculator<?title>
+  <title>Simple Calculator</title>
 </head>
 <body bg color="black">
 <form name="calculator">
