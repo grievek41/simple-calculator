@@ -28,6 +28,6 @@
          <input type="button" value="*" onclick="document.calculator.ans.value+='*'">
          <input type="button" value="=" onclick="document.calculator.ans.value=eval(document.calculator.ans.value)">
                                                  </h1>
-</body>
                                                  </form>
+</body>
                                                  </html>
