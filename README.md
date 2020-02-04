@@ -27,6 +27,7 @@
          <input type="button" value="C" onclick="document.calculator.ans.value=''">
          <input type="button" value="*" onclick="document.calculator.ans.value+='*'">
          <input type="button" value="=" onclick="document.calculator.ans.value=eval(document.calculator.ans.value)">
-                                                 </h2>
+                                                 </h1>
+</body>
                                                  </form>
                                                  </html>
